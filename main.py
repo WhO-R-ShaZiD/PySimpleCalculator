@@ -24,6 +24,8 @@ mod = num1 % num2
 floorDiv = num1 // num2
 power = num1**2
 
+
+# Printing Part:
 print("Addition is: " , add)
 print("Subtraction is: " , sub)
 print("Multiplication is: " , mul)
